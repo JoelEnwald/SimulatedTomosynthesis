@@ -1,0 +1,12 @@
+Validation set: Average loss: 0.001004
+
+Difference between constant-valued row and target is 0.000550808605289
+Difference between filtered back-projection reconstructed row and target is 0.000104197003448
+Difference between constant-valued row and target is 0.00565242954607
+Difference between filtered back-projection reconstructed row and target is 0.00026323577829
+Difference between constant-valued row and target is 0.00417043308146
+Difference between filtered back-projection reconstructed row and target is 0.000479799070256
+Difference between constant-valued row and target is 0.0171308896999
+Difference between filtered back-projection reconstructed row and target is 0.00180942947294
+Difference between constant-valued row and target is 0.00292874006327
+Difference between filtered back-projection reconstructed row and target is 5.14038743942e-05

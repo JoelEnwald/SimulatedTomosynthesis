@@ -1,0 +1,4 @@
+Validation set: Average loss: 0.001008
+
+Average difference between constant-valued row and target is 0.00536215422584
+Average difference between filtered back-projection reconstructed row and target is 0.000414980069538
